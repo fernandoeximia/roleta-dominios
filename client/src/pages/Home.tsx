@@ -33,8 +33,8 @@ export default function Home() {
       <header className="border-b bg-white/80 dark:bg-slate-900/80 backdrop-blur-sm sticky top-0 z-10">
         <div className="container py-4">
           <div className="flex items-center gap-3">
-            {APP_LOGO && <img src={APP_LOGO} alt={APP_TITLE} className="h-8 w-8" />}
-            <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+            {APP_LOGO && <img src={APP_LOGO} alt={APP_TITLE} className="h-10" />}
+            <h1 className="text-2xl font-bold bg-gradient-to-r from-orange-600 to-orange-500 bg-clip-text text-transparent">
               {APP_TITLE}
             </h1>
           </div>

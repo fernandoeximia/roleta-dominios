@@ -35,7 +35,7 @@ export const businessDomains: BusinessDomain[] = [
       ],
       technologies: ["Microserviços", "Kafka", "PostgreSQL", "Redis", "Autenticação multifator"]
     },
-    color: "#3b82f6"
+    color: "#ea580c"
   },
   {
     id: 2,
@@ -60,7 +60,7 @@ export const businessDomains: BusinessDomain[] = [
       ],
       technologies: ["Machine Learning", "APIs REST", "MongoDB", "Elasticsearch", "Workflow Engine"]
     },
-    color: "#10b981"
+    color: "#f97316"
   },
   {
     id: 3,
@@ -85,7 +85,7 @@ export const businessDomains: BusinessDomain[] = [
       ],
       technologies: ["IoT", "Computer Vision", "PostgreSQL", "MQTT", "Sistemas embarcados"]
     },
-    color: "#f59e0b"
+    color: "#fb923c"
   },
   {
     id: 4,
@@ -110,7 +110,7 @@ export const businessDomains: BusinessDomain[] = [
       ],
       technologies: ["React", "Node.js", "PostgreSQL", "Redis", "Stripe/PayPal", "CDN"]
     },
-    color: "#8b5cf6"
+    color: "#c2410c"
   },
   {
     id: 5,
@@ -135,7 +135,7 @@ export const businessDomains: BusinessDomain[] = [
       ],
       technologies: ["WebRTC", "Criptografia end-to-end", "PostgreSQL", "AWS S3", "HL7/FHIR"]
     },
-    color: "#ec4899"
+    color: "#fdba74"
   },
   {
     id: 6,
@@ -160,7 +160,7 @@ export const businessDomains: BusinessDomain[] = [
       ],
       technologies: ["GPS/GNSS", "IoT", "MongoDB", "WebSockets", "Mapas (Google/OpenStreetMap)"]
     },
-    color: "#06b6d4"
+    color: "#f59e0b"
   },
   {
     id: 7,
@@ -185,7 +185,7 @@ export const businessDomains: BusinessDomain[] = [
       ],
       technologies: ["PostgreSQL", "Workflow Engine", "APIs REST", "Relatórios PDF", "Integração bancária"]
     },
-    color: "#14b8a6"
+    color: "#fed7aa"
   },
   {
     id: 8,
@@ -210,7 +210,7 @@ export const businessDomains: BusinessDomain[] = [
       ],
       technologies: ["PostgreSQL", "React", "Node.js", "Notificações push", "Geração de relatórios"]
     },
-    color: "#f97316"
+    color: "#dc2626"
   },
   {
     id: 9,
@@ -260,7 +260,7 @@ export const businessDomains: BusinessDomain[] = [
       ],
       technologies: ["PostgreSQL", "RFID/Barcode", "APIs REST", "Redis", "Relatórios em tempo real"]
     },
-    color: "#a855f7"
+    color: "#9a3412"
   },
   {
     id: 11,
@@ -285,7 +285,7 @@ export const businessDomains: BusinessDomain[] = [
       ],
       technologies: ["React Native", "Node.js", "PostgreSQL", "WebSockets", "Google Maps API", "Redis"]
     },
-    color: "#22c55e"
+    color: "#d97706"
   },
   {
     id: 12,
@@ -310,6 +310,6 @@ export const businessDomains: BusinessDomain[] = [
       ],
       technologies: ["PostgreSQL", "Elasticsearch", "APIs REST", "Email automation", "Analytics"]
     },
-    color: "#6366f1"
+    color: "#b45309"
   }
 ];
